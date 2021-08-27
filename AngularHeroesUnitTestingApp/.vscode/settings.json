@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1adf91b8-b675-4452-b2cd-c7341996686e/resourceGroups/AhmedResourceGroupdemo/providers/Microsoft.Web/sites/ahmedangulardemo",
+    "appService.deploySubpath": "dist\\angular-test"
+}
